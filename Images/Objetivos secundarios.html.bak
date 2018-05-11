@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Objetivos secundarios</title>
+  </head>
+  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!-- Sidebar -->
+    <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:12%">
+      <h3 class="w3-bar-item">Opciones</h3>
+      <a href="#" class="w3-bar-item w3-hover-red w3-button">Comparaciones
+        grupales</a> <a href="#" target="_blank" class="w3-bar-item w3-hover-red w3-button">Sujeto
+        vs Grupo</a> <a href="#" target="_blank" class="w3-bar-item w3-hover-red w3-button">Deterministico
+        vs Probabilistico</a> <a href="#" target="_blank" class="w3-bar-item w3-hover-red w3-button">FA
+        vs DM</a> <a href="#" target="_blank" class="w3-bar-item w3-hover-red w3-button">Atlas
+        de conectividad</a> </div>
+    <!-- Page Content -->
+    <div style="margin-left:12%">
+      <div class="w3-container w3-teal">
+        <h1>Resultados segun grupo, tipo de tractografia y atlas</h1>
+      </div>
+      <div class="w3-container">
+        <h3>Resultados por grupos</h3>
+        <p> Usted verá en este apartado los resultados de comparar la
+          conectividad estructural global (todo el cerebro) entre el grupo de
+          pacientes don DFT y controles. Igualmente verá los resultados de la
+          comparación entre la variante conductual y las variantes de lenguaje.
+        </p>
+        <p> Los resultados le serán mostrados en tres tipos de visualización:
+          Cerebro traslúcido, red circular y matriz. En este paso deseamos que
+          usted observe las tres formas de visualización y pueda retroalimentar
+          sobre cual le aporta con mayor información. </p>
+        <p> Algunas de éstas visualizaciones son interactivas, asi que puede
+          pasar el mouse, hacer click </p>
+      </div>
+      <div class="w3-container"><br>
+      </div>
+      <div class="w3-bar w3-teal"> <a href="" start.html"="" target="_blank" "=""
+          class="w3-bar-item w3-hover-red w3-button">Cerebro traslúcido</a> <a
+          href="" start.html"="" target="_blank" "="" class="w3-bar-item w3-hover-red w3-button">Red circular</a>
+        <a href="" start.html"="" target="_blank" "="" class="w3-bar-item w3-hover-red w3-button"> Matriz </a>
+      </div>
+    </div>
+    
+  </body>
+</html>
